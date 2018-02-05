@@ -34,7 +34,7 @@ ENABLE_BUNNY_HOP = false
 /**
  * Enables the recoil control system (RCS) script.
  */
-ENABLE_RCS = true
+ENABLE_RCS = false 
 
 /**
  * Enables the extra sensory perception (ESP) script.
@@ -46,7 +46,7 @@ ENABLE_ESP = true
  *
  * This script uses traditional flat linear-regression smoothing.
  */
-ENABLE_FLAT_AIM = true
+ENABLE_FLAT_AIM = false
 
 /**
  * Enables the path aim script.
